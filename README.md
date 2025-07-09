@@ -1,4 +1,4 @@
-## 1.Introduction
+## 1. Introduction
 This project focuses on detecting online payment fraud for Blossom Bank (BBL PLC), a multinational financial services group headquartered in London, UK. With the increasing prevalence of digital transactions, the risk of fraudulent activities has risen dramatically. Effective fraud detection is crucial for safeguarding both the bank's assets and its customers' financial security. By leveraging advanced machine learning techniques and data analytics, this project aims to develop a robust system that identifies and mitigates fraudulent transactions in real-time, ensuring a secure banking experience for all users.
 
 ## 2. Dataset
